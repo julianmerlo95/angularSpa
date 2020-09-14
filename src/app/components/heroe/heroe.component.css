@@ -1,0 +1,13 @@
+.container {
+  padding: 20px;
+  text-align: center;
+}
+.heroe-img {
+  width: 50%;
+}
+
+@media (max-width: 468px) {
+  .heroe-img {
+    width: 100%;
+  }
+}

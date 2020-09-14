@@ -1,0 +1,22 @@
+.container {
+  padding: 20px;
+  text-align: center;
+}
+.heroe-img {
+  width: 50%;
+}
+
+.not_found {
+  border: 2px solid grey;
+  padding: 5px;
+  margin: 50px;
+  border-radius: 5px;
+  color: white;
+  background-color: red;
+}
+
+@media (max-width: 468px) {
+  .heroe-img {
+    width: 100%;
+  }
+}

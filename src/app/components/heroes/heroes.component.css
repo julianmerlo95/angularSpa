@@ -1,0 +1,13 @@
+.card-columns {
+  padding: 20px;
+  text-align: center;
+}
+.heroes-img {
+  width: 50%;
+}
+
+@media (max-width: 425px) {
+  .heroes-img {
+    width: 100%;
+  }
+}
